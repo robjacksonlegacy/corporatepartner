@@ -1,1 +1,1 @@
-# corporate-partner
+# corporatepartner
